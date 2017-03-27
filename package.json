@@ -1,6 +1,6 @@
 {
   "name": "mojiito-core",
-  "version": "2.0.0-alpha.3-16baa53",
+  "version": "2.0.0-alpha.3-e516559",
   "description": "Mojiito Core",
   "main": "./bundles/core.umd.js",
   "module": "./mojiito/core.es5.js",
