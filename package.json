@@ -1,0 +1,16 @@
+{
+  "name": "mojiito-core",
+  "version": "2.0.0-alpha.3-16baa53",
+  "description": "Mojiito Core",
+  "main": "./bundles/core.umd.js",
+  "module": "./mojiito/core.es5.js",
+  "es2015": "./mojiito/core.js",
+  "typings": "./core.d.ts",
+  "author": "Mojiito Team",
+  "license": "MIT",
+  "peerDependencies": { },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mojiito/mojiito"
+  }
+}
